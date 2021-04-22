@@ -1,8 +1,4 @@
 ### Hi there 👋
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nhathuy13598&show_icons=true&hide=issues&theme=dark&count_private=true">
-</a>
-
 My name is Huy
 
 :octocat:
