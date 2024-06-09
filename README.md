@@ -1,8 +1,4 @@
-![](motivation.jpg)
 ### Hi there 👋
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhathuy13598&hide=html&layout=compact&theme=dark">
-</a>
 My name is Huy
 
 :octocat:
